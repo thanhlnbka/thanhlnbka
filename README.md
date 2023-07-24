@@ -1,16 +1,50 @@
-### Hi there 👋
+<h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Thanh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h1>
 
-<!--
-**thanhlnbka/thanhlnbka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://komarev.com/ghpvc/?username=thanhlnbka&style=flat-square&color=blueviolet">
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Th%C3%A0nh%20L%C6%B0u-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/th%C3%A0nh-l%C6%B0u-305553188/)](https://www.linkedin.com/in/th%C3%A0nh-l%C6%B0u-305553188/)  [![GitHub followers](https://img.shields.io/github/followers/thanhlnbka?label=Follow&style=social)](https://github.com/thanhlnbka/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-thanhlnbka%40gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:thanhlnbka@gmail.com)](mailto:thanhlnbka@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI%20|%20ML%20|%20MLOps%20Engineer;&center=true&width=420&height=45"></a>
+</p>
+
+**Current Work**
+* **AI | Software Engineer**
+
+* **Data Science and Artificial Intelligence**
+
+* **Deep Learning & Machine Learning**
+
+* **Computer Vision**
+
+* **Streaming**
+
+**Education**
+
+* **Engineering Degree in Computer Science**
+* **Hanoi University of Science and Technology (HUST)** 
+
+**Skills**
+
+* **Python**
+* **C/C++**
+* **Full Stack Machine Learning Application Development**
+
+**Interests**
+
+* **Data Science**
+
+* **Artificial Intelligence**
+
+* **Machine Learning**
+
+<hr>
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=thanhlnbka&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhlnbka&theme=react&layout=compact" />
+</p>
