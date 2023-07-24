@@ -9,38 +9,31 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI%20|%20ML%20|%20MLOps%20Engineer;&center=true&width=420&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI%20|%20MLOps%20|%20DevOps%20|%20Streaming%20Engineer;&center=true&width=620&height=45"></a>
 </p>
 
-**Current Work**
-* **AI | Software Engineer**
+**Current Work** ✨
+* **AI | Software Engineer** 🧑‍💻
 
-* **Data Science and Artificial Intelligence**
+* **Computer Vision & Streaming** 📺
 
-* **Deep Learning & Machine Learning**
+**Education** ✨
 
-* **Computer Vision**
+* **Engineering Degree in Computer Science** 🎯
+* **Hanoi University of Science and Technology (HUST)** 🎓
 
-* **Streaming**
-
-**Education**
-
-* **Engineering Degree in Computer Science**
-* **Hanoi University of Science and Technology (HUST)** 
-
-**Skills**
+**Skills** ✨
 
 * **Python**
-* **C/C++**
-* **Full Stack Machine Learning Application Development**
+* **C/C++** 
 
-**Interests**
+**Interests** ✨
 
-* **Data Science**
+* **Data Science** 📈
 
-* **Artificial Intelligence**
+* **Artificial Intelligence** 🤯
 
-* **Machine Learning**
+* **Machine Learning** 🤖
 
 <hr>
 
