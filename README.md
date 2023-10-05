@@ -9,11 +9,11 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI%20|%20MLOps%20|%20DevOps%20|%20Streaming%20Engineer;&center=true&width=620&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI%20|%20Software%20|%20Streaming%20Engineer;&center=true&width=620&height=45"></a>
 </p>
 
 **Current Work** ✨
-* **AI | Software Engineer** 🧑‍💻
+* **Software Engineer** 🧑‍💻
 
 * **Computer Vision & Streaming** 📺
 
